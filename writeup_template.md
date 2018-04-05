@@ -19,14 +19,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization.jpg "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
-[image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./DataSets/traffic-signs-secondary/speed30_sign.jpg "Traffic Sign 1"
-[image5]: ./DataSets/traffic-signs-secondary/no-passing-sing.jpg "Traffic Sign 2"
-[image6]: ./DataSets/traffic-signs-secondary/stop-sign.jpg "Traffic Sign 3"
-[image7]: ./DataSets/traffic-signs-secondary/right-of-way.jpg "Traffic Sign 4"
-[image8]: ./DataSets/traffic-signs-secondary/do-not-enter.jpg "Traffic Sign 5"
+[image4]: ./Data Sets/traffic-signs-secondary/speed30_sign.jpg "Traffic Sign 1"
+[image5]: ./Data Sets/traffic-signs-secondary/no-passing-sing.jpg "Traffic Sign 2"
+[image6]: ./Data Sets/traffic-signs-secondary/stop-sign.jpg "Traffic Sign 3"
+[image7]: ./Data Sets/traffic-signs-secondary/right-of-way.jpg "Traffic Sign 4"
+[image8]: ./Data Sets/traffic-signs-secondary/do-not-enter.jpg "Traffic Sign 5"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -53,9 +50,8 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how many images exist per label. The next visualization is after a preprocess. 
+Within the jupyter notebook is a bar chart showing how many images exist per label. The next visualization is after a preprocess. 
 
-![alt text][image1]
 
 ### Design and Test a Model Architecture
 
