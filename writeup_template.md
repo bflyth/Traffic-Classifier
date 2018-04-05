@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image4]: ./DataSets/traffic-signs-secondary/speed30_sign.jpg "Traffic Sign 1"
-[image5]: ./DataSets/traffic-signs-secondary/no-passing-sing.jpg "Traffic Sign 2"
+[image4]: ./DataSets/traffic-signs-secondary/speed30-sign.jpg "Traffic Sign 1"
+[image5]: ./DataSets/traffic-signs-secondary/no-passing-sign.jpg "Traffic Sign 2"
 [image6]: ./DataSets/traffic-signs-secondary/stop-sign.jpg "Traffic Sign 3"
 [image7]: ./DataSets/traffic-signs-secondary/right-of-way.jpg "Traffic Sign 4"
 [image8]: ./DataSets/traffic-signs-secondary/do-not-enter.jpg "Traffic Sign 5"
